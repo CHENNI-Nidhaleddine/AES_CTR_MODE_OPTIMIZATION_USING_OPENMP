@@ -1,0 +1,11 @@
+﻿  aes_seq.c
+C:\Users\aorus\source\repos\aes_seq\aes_seq\aes_seq.c(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+C:\Users\aorus\source\repos\aes_seq\aes_seq\aes_seq.c(11,1): message : '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+C:\Users\aorus\source\repos\aes_seq\aes_seq\aes_seq.c(578,54): warning C4028: formal parameter 3 different from declaration
+C:\Users\aorus\source\repos\aes_seq\aes_seq\aes_seq.c(638,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aorus\source\repos\aes_seq\aes_seq\aes_seq.c(628,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\aorus\source\repos\aes_seq\aes_seq\aes_seq.c(651,64): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+C:\Users\aorus\source\repos\aes_seq\aes_seq\main.c(37,12): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  aes_seq.vcxproj -> C:\Users\aorus\source\repos\aes_seq\x64\Debug\aes_seq.exe
